@@ -1,3 +1,6 @@
+# Deprecation notice
+
+Note: As of 2026-01-14, this repo is deprecated.
 
 # Self-hosted polyfill service
 
